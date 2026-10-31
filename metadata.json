@@ -1,0 +1,6 @@
+{
+  "name": "DeenTimeR & PomoReader Pro (v17.0 Desktop)",
+  "description": "Desktop Polymath Life OS, Memory Beast FSRS Vault, 3D Wooden Bookshelf, PomoDoc Forge & PomoNote",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
